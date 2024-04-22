@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="images/ico.png" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Mr PTT </title>
+</head>
+<body>
+
+    <header>
+        
+        <a href="#" class="logo">Mr ppt</a>
+        <img loading="lazy" id="logo" src="images/hhhh.png" alt="Logo">
+        <nav class="navigation">
+            <a href="#services">Services</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <section class="main">
+        <div>
+            <h2>Hello, I'm AHMED<br><span>Presentation designer </span></h2>
+            <h3>I help people get more creative </h3>
+            <a href="#projects" class="main-btn">let's take a look at my work</a>
+            
+        </div>
+    </section>
+
+    <section class="cards" id="services">
+        <h2 class="title">Services</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-edit"></i>
+                </div>
+                <div class="info">
+                    <h3>Script Writing and presentation designing</h3>
+                    <p>البحث وكتابة الموضوع الخاص بكم و تصميم عرض تقديمي إحترافي يتلائم مع المحتوى العام له  
+
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-keyboard"></i>
+                </div>
+                <div class="info">
+                    <h3>convert hand writing to a text document</h3>
+                    <p>نحن نوفر خدمة تحويل كتابة اليد إلى ملفِ نصي مع التدقيق الاملائي  و تنسيق النص حسب رغبتكم 
+
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-user-md"></i>
+                </div>
+                <div class="info">
+                    <h3>CVs designing</h3>
+                    <p> تصميم سيرة ذاتية احترافية لعرض إنجازاتكم , نجحاتكم ومهاراتكم
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-code"></i>
+                </div>
+                <div class="info">
+                    <h3>portfolio coding
+                    
+                    </h3>
+                    <p>  برمجة الملف التعريفي الخاص بك وإظهار المهارات والخبرات الخاصة بك بأبهى صورة </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2 class="title">Projects</h2>
+        <div class="content">
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/Screenshot (31).png" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">Awesome presentation about AI</p>
+                    <strong class="project-title">
+                        <span>slides design</span>
+                        <a href="https://onedrive.live.com/edit.aspx?action=edit&resid=DE452A27E5260C39!547&ithint=file%2cpptx&action=edit&ct=1690839455406&wdNewAndOpenCt=1690839455406&wdPreviousSession=998e3467-f7e4-4b5d-836e-6218d8cafd0a&wdOrigin=OFFICECOM-WEB.MAIN.UPLOAD" target="_blank" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/CVS.png" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">CVs designing</p>
+                    <strong class="project-title">
+                        <span>Dev Books</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/Screenshot (35).png" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">portfolio coding</p>
+                    <strong class="project-title">
+                        <span>Dev Books</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/Screenshot (36).png" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">portfolio coding</p>
+                    <strong class="project-title">
+                        <span>Dev Books</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/hand write.png
+                    " />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">convert hand writing to a text document
+                    </p>
+                    <strong class="project-title">
+                        <span>Dev Books</span>
+                        <a href="#" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img loading="lazy" src="images/ff ppt.png" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">Script Writing and presentation designing</p>
+                    <strong class="project-title">
+                        <span>Internet</span>
+                        <a href="https://onedrive.live.com/edit.aspx?resid=DE452A27E5260C39!383&ithint=file%2cpptx&ct=1691270678757&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=f224eff2-a311-4c39-90a3-0095d6a66a1e" class="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+    <section class="cards contact" id="contact">
+        <h2 class="title">Let's work together</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-phone"></i>
+                </div>
+                <div class="info">
+                    <h3>Phone</h3>
+                    <p>0672159461</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info">
+                    <h3>Email</h3>
+                    <p>mr.pptx.dz@gmail.com</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <footer class="footer">
+        <p class="footer-title">Copyrights @ <span>Ahmed Abdesselam</span></p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/mr-ppt-029488285/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://twitter.com/Mr_ppt_dz" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/mr.ppt.dz/#" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100094722567032" target="_blank"><i class="fab fa-facebook-f" style="color: #ffffff;"></i>
+        </div>
+    </footer>
+
+</body>
+</html>
